@@ -1,4 +1,4 @@
-| [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinaryDolphin29&theme=github_dark)](https://github.com/BinaryDolphin29) | [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinaryDolphin29&theme=github_dark)](https://github.com/BinaryDolphin29) | [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinaryDolphin29&theme=github_dark)](https://github.com/BinaryDolphin29) |
+| [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinaryDolphin29&theme=github_dark)](#) | [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinaryDolphin29&theme=github_dark)](#) | [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinaryDolphin29&theme=github_dark)](#) |
 |:-:|:-:|:-:|
 ---
 I write Golang and JavaScript roughly.  
